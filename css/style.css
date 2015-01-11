@@ -15,7 +15,10 @@
 	float: left;
 	margin: 10px;
 }
-
 .main{
 	background-color: black;
+}
+.sidebar{
+	float: right;
+	width: 200px;
 }
