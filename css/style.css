@@ -2,3 +2,16 @@
 	margin: 0;
 	padding: 0;
 }
+
+.header{
+	overflow: hidden;
+}
+.menu{
+	position: relative;
+	overflow: hidden;
+	float: right;
+}
+.menu li {
+	float: left;
+	margin: 10px;
+}
